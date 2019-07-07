@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">تطبيق جافا</string>
+    <string name="quantity">الكمية</string>
+    <string name="order">اطلب</string>
+    <string name="_S0">$0</string>
+    <string name="order_summary">الطلب</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="toppings">اضافات</string>
+    <string name="whipped_cream">كريمة</string>
+    <string name="chocolate">شيكولاتة</string>
+    <string name="name">الاسم</string>
+    <string name="_1">1</string>
+    <string name="order_summary_name">الاسم:</string>
+    <string name="order_summary_whipped_cream">اضافة كريمة؟</string>
+    <string name="order_summary_chocolate">اضافة شوكولاتة؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="order_summary_quantity">الكمية:</string>
+    <string name="order_summary_total">الاجمالي: $</string>
+    <string name="thank_you">شكرا لك!</string>
+    <string name="email_subject">العميل:</string>
+</resources>
